@@ -2,3 +2,7 @@
 
 print("hello")
 print("world")
+/* output:
+hello
+world
+*/
