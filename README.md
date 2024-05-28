@@ -11,10 +11,10 @@
 
 ### Swift
 - [《Swift 學習筆記》](https://hugolu.gitbooks.io/learn-swift/content/Basic/index.html)
-- [Swift Documentation](hhttps://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+- [Swift Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
 
 ### Dart
-- [Dart documentation](https://dart.dev/guides)
+- [Dart 中文文檔](https://dart.tw.gh.miniasp.com/guides/)
 - [Dart 學習筆記 - bingdoal](https://hackmd.io/@bingdoal/r1TNK8oNb)
 
 (以上資源純屬分享)
