@@ -16,5 +16,6 @@
 ### Dart
 - [Dart 中文文檔](https://dart.tw.gh.miniasp.com/guides/)
 - [Dart 學習筆記 - bingdoal](https://hackmd.io/@bingdoal/r1TNK8oNb)
+- [【Flutter基礎概念與實作】 Day3–Dart Language(1)](https://ithelp.ithome.com.tw/articles/10215198)
 
 (以上資源純屬分享)
