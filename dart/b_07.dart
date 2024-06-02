@@ -23,5 +23,5 @@ void main(){
     print(j);
     j--;
   }while(j > 0);
-  print("Do-while 迴圈結束")
+  print("Do-while 迴圈結束");
 }
