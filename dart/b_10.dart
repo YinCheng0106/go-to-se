@@ -9,7 +9,7 @@ class Video{
   //明確地允許它們為 null，否則會報錯
   //可以在宣告類別前方加入late
   late String title;
-  late String description;``
+  late String description;
   late String publishTime;
   late String thumbnail;
   late String url;
