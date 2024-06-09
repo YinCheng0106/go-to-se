@@ -1,5 +1,5 @@
 # 前往SE的路
-這是一個記錄自己成為「軟體工程師」的心路歷程，主要學習JavaScript、Swift、Dart，之後有相關專案會使用超連結
+這是一個記錄自己成為「軟體工程師」的心路歷程，主要學習 JavaScript、Swift、Dart，之後有相關專案會使用超連結
 ---
 ## 主要學習：
 - **[JavaScript](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript)**：是一種主要用於網頁開發的程式語言，可以在瀏覽器和伺服器上運行，為網站提供動態和互動功能
