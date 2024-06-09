@@ -1,4 +1,4 @@
-/* for of */
+/* for of Array*/
 const cars = ["BMW", "Volvo", "Mini"];
 
 let text = "";
@@ -7,6 +7,7 @@ for(let x of cars){
     text += x;
     console.log(`text add => ${x}: ${text}`)
     /*
+    Output:
     text add => BMW: BMW
     text add => Volvo: BMWVolvo
     text add => Mini: BMWVolvoMini
