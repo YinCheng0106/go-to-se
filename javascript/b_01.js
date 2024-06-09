@@ -6,6 +6,7 @@ const num = [1, 2, 3, 4, 5];
 //}
 
 for(let x in num){
-    console.log(`Length: ${x}`);
+    //這邊的 x 是索引值(index)
+    console.log(`Index: ${x}`);
     console.log(`Number: ${num[x]}`);
 }
