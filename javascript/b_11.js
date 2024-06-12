@@ -68,3 +68,16 @@ console.log(fruits); // Output: Map(0) {}
 // has() 是否有此元素
 console.log(fruits.has("banana")); //Output: flase
 
+// groupBy() ES2024
+const car = [
+    {name: "BMW", quantity: "50"},
+    {name: "Ford", quantity: "40"},
+    {name: "Toyota", quantity: "20"},
+    {name: "Nissan", quantity: "100"},
+];
+
+function myCallback({quantity}){
+    return quantity > 30 ? "ok" : "low";
+}
+const result = Map.groupBy(car, myCallback);
+console.log(result)
