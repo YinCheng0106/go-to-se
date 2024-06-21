@@ -67,3 +67,30 @@ Object.defineProperty(person, "fullName", {
 })
 console.log(person.fullName);
 // Output: John Doe
+
+// Object.values(object)
+const myArray = Object.values(person);
+console.log(myArray); // Output: [ 'John', 'Doe' ]
+
+// Object.entries(object)
+
+const fruits = {
+    Banana: 300,
+    Oranges: 200,
+    Apples: 500,
+};
+let text = "";
+for(let [fruit, value] of Object.entries(fruits)){
+    text += fruit + ": " + value + "\n";
+}
+console.log(text); 
+/* 
+Output: 
+Banana: 300
+Oranges: 200
+Apples: 500
+*/
+
+// JSON.stringify(object)
+let myString = JSON.stringify(person);
+console.log(myString); // Output: {"firstName":"John","lastName":"Doe"}
