@@ -28,3 +28,5 @@ Person.prototype.changeName = function(name){
 }
 
 myMother.changeName("Doe");
+
+// Object.prototype.Property : 繼承
