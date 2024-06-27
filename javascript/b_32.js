@@ -15,4 +15,3 @@ const member = {
 
 person.fullName; // undefined
 let fullName = person.fullName.bind(member); // "Hege Nilsen"
-
