@@ -1,1 +1,0 @@
-currentDirection = 'North';
